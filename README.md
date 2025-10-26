@@ -1,0 +1,1 @@
+"python3 jetson_cam.py" "python3 yolo_from_snapshots.py" "python3 test.py --snap-url http://10.11.81.246:5055/snapshot --api-url http://10.11.81.14:5050 --room-id roomA --model yolo11n.pt --conf 0.25 --fps 5 --timeout 2.0"
